@@ -15,7 +15,7 @@ references:
 
 Homework
 . Demonstrate drawback of using same OTP key twice (encrypt some image or text)
-- Solve problem 2.8 and 2.10 from course book
+- Solve problem 2.8 and 2.10 from course book (page#68)
 . What is NIST STS? Test 3MB or more data from following using NIST STS
   (https://github.com/terrillmoore/NIST-Statistical-Test-Suite)
     • Output of Trivium Cipher
