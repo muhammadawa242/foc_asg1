@@ -1,18 +1,3 @@
-references:
-- NIST SP 800-38 series, Recom for Block Cipher Modes of Operation
-- Applied Cryptography, 2nd edition by Bruce Schneier
-- Handbook of Applied Cryptography
-- The Block Cipher Companion
-- Understanding Cryptography, Christof Parr
-- Cryptography and Network Security Principles and Practice (2022) William Stallings
-- Lec Block Cipher Mode of Op, John, Brown, Stallings, knox college Galesburg, Illinois
-- Mode of Op, Murat Kantarcioglu, University of Texas at Dallas
-- CTR Mode Encryption, Comments of NIST concerning AES modes of Enc, Helger, Phillip, David
-- Block Ciphers and Modes of Operation, CIS5357, Florida State University
-- Modes of Op, Steven M. Bellovin, Columbia University
-- Bad Cryptography, Bruce Barnett, NYSTEC
-- crypto.stackexchange.com
-
 Homework
 . Demonstrate drawback of using same OTP key twice (encrypt some image or text)
 - Solve problem 2.8 and 2.10 from course book (page#68)
