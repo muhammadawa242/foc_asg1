@@ -1,12 +1,4 @@
 Homework
-. Demonstrate drawback of using same OTP key twice (encrypt some image or text)
-. Solve problem 2.8 and 2.10 from course book (page#68)
-. What is NIST STS? Test 3MB or more data from following using NIST STS
-  (https://github.com/terrillmoore/NIST-Statistical-Test-Suite)
-    • Output of Trivium Cipher
-    • A zip file
-    • A .txt file with English text
-    (Stream length is 1 million bits and number of streams is 20)
 - Write equations for three rounds of DES encryption and decryption
 - Demonstrate drawback of AES-128-ECB
 - Perform encryption and decryption using AES-128-CBC and AES-128-CTR
